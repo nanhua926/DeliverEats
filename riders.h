@@ -1,7 +1,6 @@
 /*
 riders.h
-Author: Student Name
-Created: 24/10/2025
+Author:Yiquan Sun
 */
 
 #ifndef _RIDERS_H_
