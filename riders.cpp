@@ -1,7 +1,6 @@
 /*
 riders.cpp
 Author: Yiquan Sun
-Created: 24/10/2025
 */
 
 #include "riders.h"
